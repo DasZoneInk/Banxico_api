@@ -7,3 +7,5 @@ Banxico module to query api
 - Queryng method to perform multiple request in one session within api time limits
 - Module infraestructure, versioning, etc
 - Unit testing
+- Improve README.md, improve project documentation
+- Submit to banxico and pip
